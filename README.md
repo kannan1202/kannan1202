@@ -41,9 +41,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/kannan1202/count.svg?"  />
-</div>
-
-###
