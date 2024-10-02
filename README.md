@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀  Frontend developer with a knack for creating clean, functional React interfaces that keep users engaged.<br><br>🚀 Taking on new challenges while exploring the innovative features of React 19 to elevate my frontend game.</p>
+<p align="left">🚀  Frontend developer with a knack for creating clean, functional React interfaces that keep users engaged.<br>🚀 Taking on new challenges while exploring the innovative features of React 19 to elevate my frontend game.</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
